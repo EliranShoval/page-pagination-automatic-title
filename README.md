@@ -1,0 +1,1 @@
+# page-pagination-automatic-title
